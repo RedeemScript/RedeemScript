@@ -1,5 +1,7 @@
 ### Hi there
 
 <p align="center">
-  <img title="Matteopet's Leetocde Stats" alt="Matteopet's Leetcode" src="[https://github-readme-streak-stats.herokuapp.com/?user=JacobLinCool](https://leetcard.jacoblin.cool/matteopet)" />
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <img title="Mattepet's LeetCode Stats" alt="Matteopet's LeetCode Stats" src="https://leetcard.jacoblin.cool/matteopet" />
+  </a>
 </p>
